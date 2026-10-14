@@ -217,6 +217,18 @@
       "traditions": ["General"],
       "tags": ["audio", "spiritual-exercises", "ignatius-loyola", "librivox", "public-domain", "books", "spirituality", "retreat"],
       "version": "1.0.0"
+    },
+    {
+      "id": "introduction-to-the-devout-life-audio",
+      "type": "playlist",
+      "path": "Introduction-To-The-Devout-Life-Audio.playlist.zip",
+      "name": "Introduction to the Devout Life (Audio)",
+      "description": "Francis de Sales's practical guide to holiness (older public-domain recording), read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "introduction-to-the-devout-life", "francis-de-sales", "librivox", "public-domain", "books", "devotional", "spirituality"],
+      "version": "1.0.0"
     }
   ]
 }
