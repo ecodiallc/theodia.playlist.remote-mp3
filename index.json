@@ -133,6 +133,18 @@
       "traditions": ["General"],
       "tags": ["audio", "interior-castle", "teresa-of-avila", "librivox", "public-domain", "books", "contemplation", "spirituality"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-life-of-st-anthony-audio",
+      "type": "playlist",
+      "path": "The-Life-Of-St-Anthony-Audio.playlist.zip",
+      "name": "The Life of St. Anthony (Audio)",
+      "description": "Athanasius's biography of Anthony the Great (Ellershaw translation), read by gadhbteo7 for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "life-of-st-anthony", "athanasius", "librivox", "public-domain", "books", "biography", "monasticism"],
+      "version": "1.0.0"
     }
   ]
 }
