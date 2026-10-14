@@ -181,6 +181,18 @@
       "traditions": ["General"],
       "tags": ["audio", "institutes", "john-calvin", "reformed", "librivox", "public-domain", "books", "sampler", "theology"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-heavenly-footman-audio",
+      "type": "playlist",
+      "path": "The-Heavenly-Footman-Audio.playlist.zip",
+      "name": "The Heavenly Footman (Audio)",
+      "description": "John Bunyan's treatise on running the race of faith, read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "heavenly-footman", "john-bunyan", "librivox", "public-domain", "books", "puritan", "devotional"],
+      "version": "1.0.0"
     }
   ]
 }
