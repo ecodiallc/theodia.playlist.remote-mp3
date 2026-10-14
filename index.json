@@ -241,6 +241,18 @@
       "traditions": ["General"],
       "tags": ["audio", "story-of-a-soul", "therese-of-lisieux", "librivox", "public-domain", "books", "autobiography", "spirituality"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-cloud-of-unknowing-audio",
+      "type": "playlist",
+      "path": "The-Cloud-Of-Unknowing-Audio.playlist.zip",
+      "name": "The Cloud of Unknowing (Audio)",
+      "description": "The anonymous late-medieval contemplative classic (Underhill translation), read by David Barnes for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "cloud-of-unknowing", "mysticism", "librivox", "public-domain", "books", "contemplation", "spirituality"],
+      "version": "1.0.0"
     }
   ]
 }
