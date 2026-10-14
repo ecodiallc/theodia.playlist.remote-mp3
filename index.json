@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-13T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "the-pilgrims-progress-audio",
+      "type": "playlist",
+      "path": "The-Pilgrims-Progress-Audio.playlist.zip",
+      "name": "The Pilgrim's Progress (Audio)",
+      "description": "The complete book by John Bunyan, read by MaryAnn for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "pilgrims-progress", "bunyan", "librivox", "public-domain", "books"],
+      "version": "1.0.0"
+    }
+  ]
+}
