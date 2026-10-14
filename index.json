@@ -25,6 +25,18 @@
       "traditions": ["General"],
       "tags": ["audio", "imitation-of-christ", "thomas-a-kempis", "librivox", "public-domain", "books", "devotional"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-practice-of-the-presence-of-god-audio",
+      "type": "playlist",
+      "path": "The-Practice-Of-The-Presence-Of-God-Audio.playlist.zip",
+      "name": "The Practice of the Presence of God (Audio)",
+      "description": "Brother Lawrence's letters and conversations on abiding in God, read by Kirsten Ferreri for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "practice-of-the-presence-of-god", "brother-lawrence", "librivox", "public-domain", "books", "devotional"],
+      "version": "1.0.0"
     }
   ]
 }
