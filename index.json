@@ -229,6 +229,18 @@
       "traditions": ["General"],
       "tags": ["audio", "introduction-to-the-devout-life", "francis-de-sales", "librivox", "public-domain", "books", "devotional", "spirituality"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-story-of-a-soul-audio",
+      "type": "playlist",
+      "path": "The-Story-Of-A-Soul-Audio.playlist.zip",
+      "name": "The Story of a Soul (Audio)",
+      "description": "Thérèse of Lisieux's spiritual autobiography, read by Susan Morin for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "story-of-a-soul", "therese-of-lisieux", "librivox", "public-domain", "books", "autobiography", "spirituality"],
+      "version": "1.0.0"
     }
   ]
 }
