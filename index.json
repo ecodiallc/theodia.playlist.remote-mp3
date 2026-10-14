@@ -85,6 +85,18 @@
       "traditions": ["General"],
       "tags": ["audio", "on-the-incarnation", "athanasius", "librivox", "public-domain", "books", "christology", "theology"],
       "version": "1.0.0"
+    },
+    {
+      "id": "foxes-book-of-martyrs-audio",
+      "type": "playlist",
+      "path": "Foxes-Book-Of-Martyrs-Audio.playlist.zip",
+      "name": "Foxe's Book of Martyrs (Audio)",
+      "description": "Volume 1 of John Foxe's history of Christian martyrs, read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "foxes-book-of-martyrs", "john-foxe", "librivox", "public-domain", "books", "history", "martyrs"],
+      "version": "1.0.0"
     }
   ]
 }
