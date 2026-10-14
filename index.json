@@ -13,6 +13,18 @@
       "traditions": ["General"],
       "tags": ["audio", "pilgrims-progress", "bunyan", "librivox", "public-domain", "books"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-imitation-of-christ-audio",
+      "type": "playlist",
+      "path": "The-Imitation-Of-Christ-Audio.playlist.zip",
+      "name": "The Imitation of Christ (Audio)",
+      "description": "Thomas à Kempis's classic devotional, read by David Barnes for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "imitation-of-christ", "thomas-a-kempis", "librivox", "public-domain", "books", "devotional"],
+      "version": "1.0.0"
     }
   ]
 }
