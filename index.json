@@ -97,6 +97,18 @@
       "traditions": ["General"],
       "tags": ["audio", "foxes-book-of-martyrs", "john-foxe", "librivox", "public-domain", "books", "history", "martyrs"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-divine-comedy-audio",
+      "type": "playlist",
+      "path": "The-Divine-Comedy-Audio.playlist.zip",
+      "name": "The Divine Comedy (Audio)",
+      "description": "Dante Alighieri's epic in the Longfellow translation, read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "divine-comedy", "dante", "longfellow", "librivox", "public-domain", "books", "poetry"],
+      "version": "1.0.0"
     }
   ]
 }
