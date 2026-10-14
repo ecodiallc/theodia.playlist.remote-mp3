@@ -49,6 +49,18 @@
       "traditions": ["General"],
       "tags": ["audio", "orthodoxy", "g-k-chesterton", "librivox", "public-domain", "books", "apologetics"],
       "version": "1.0.0"
+    },
+    {
+      "id": "grace-abounding-to-the-chief-of-sinners-audio",
+      "type": "playlist",
+      "path": "Grace-Abounding-To-The-Chief-Of-Sinners-Audio.playlist.zip",
+      "name": "Grace Abounding to the Chief of Sinners (Audio)",
+      "description": "John Bunyan's spiritual autobiography, read by Stephen Escalera for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "grace-abounding", "john-bunyan", "librivox", "public-domain", "books", "autobiography"],
+      "version": "1.0.0"
     }
   ]
 }
