@@ -61,6 +61,18 @@
       "traditions": ["General"],
       "tags": ["audio", "grace-abounding", "john-bunyan", "librivox", "public-domain", "books", "autobiography"],
       "version": "1.0.0"
+    },
+    {
+      "id": "confessions-audio",
+      "type": "playlist",
+      "path": "Confessions-Audio.playlist.zip",
+      "name": "Confessions (Audio)",
+      "description": "Augustine of Hippo's spiritual autobiography (Pusey translation), read by MaryAnn Spiegel for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "confessions", "augustine", "librivox", "public-domain", "books", "autobiography", "theology"],
+      "version": "1.0.0"
     }
   ]
 }
