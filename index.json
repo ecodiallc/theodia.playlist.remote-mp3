@@ -253,6 +253,18 @@
       "traditions": ["General"],
       "tags": ["audio", "cloud-of-unknowing", "mysticism", "librivox", "public-domain", "books", "contemplation", "spirituality"],
       "version": "1.0.0"
+    },
+    {
+      "id": "revelations-of-divine-love-audio",
+      "type": "playlist",
+      "path": "Revelations-Of-Divine-Love-Audio.playlist.zip",
+      "name": "Revelations of Divine Love (Audio)",
+      "description": "Julian of Norwich's fourteenth-century visions and reflections, read by David Barnes for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "revelations-of-divine-love", "julian-of-norwich", "librivox", "public-domain", "books", "mysticism", "spirituality"],
+      "version": "1.0.0"
     }
   ]
 }
