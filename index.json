@@ -193,6 +193,18 @@
       "traditions": ["General"],
       "tags": ["audio", "heavenly-footman", "john-bunyan", "librivox", "public-domain", "books", "puritan", "devotional"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-summa-theologica-audio-sampler",
+      "type": "playlist",
+      "path": "The-Summa-Theologica-Audio-Sampler.playlist.zip",
+      "name": "The Summa Theologica (Audio Sampler)",
+      "description": "Selected questions from Thomas Aquinas's Summa Theologica, read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "summa-theologica", "thomas-aquinas", "librivox", "public-domain", "books", "sampler", "theology", "scholasticism"],
+      "version": "1.0.0"
     }
   ]
 }
