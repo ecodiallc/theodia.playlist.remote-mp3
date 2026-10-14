@@ -109,6 +109,18 @@
       "traditions": ["General"],
       "tags": ["audio", "divine-comedy", "dante", "longfellow", "librivox", "public-domain", "books", "poetry"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-city-of-god-audio",
+      "type": "playlist",
+      "path": "The-City-Of-God-Audio.playlist.zip",
+      "name": "The City of God (Audio)",
+      "description": "Augustine's monumental work (Dods translation), read by Darren L. Slider for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "city-of-god", "augustine", "librivox", "public-domain", "books", "theology", "history"],
+      "version": "1.0.0"
     }
   ]
 }
