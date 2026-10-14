@@ -157,6 +157,18 @@
       "traditions": ["General"],
       "tags": ["audio", "john-wesley", "sermons", "methodism", "librivox", "public-domain", "books", "sampler"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-bondage-of-the-will-audio",
+      "type": "playlist",
+      "path": "The-Bondage-Of-The-Will-Audio.playlist.zip",
+      "name": "The Bondage of the Will (Audio)",
+      "description": "Martin Luther's treatise (Cole translation), read by Jonathan Lange for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "bondage-of-the-will", "martin-luther", "librivox", "public-domain", "books", "reformation", "theology"],
+      "version": "1.0.0"
     }
   ]
 }
