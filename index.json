@@ -145,6 +145,18 @@
       "traditions": ["General"],
       "tags": ["audio", "life-of-st-anthony", "athanasius", "librivox", "public-domain", "books", "biography", "monasticism"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-works-of-john-wesley-audio-sampler",
+      "type": "playlist",
+      "path": "The-Works-Of-John-Wesley-Audio-Sampler.playlist.zip",
+      "name": "The Works of John Wesley (Audio Sampler)",
+      "description": "Three sermons from John Wesley's Sermons on Several Occasions (First Series), read by LibriVox volunteers. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "john-wesley", "sermons", "methodism", "librivox", "public-domain", "books", "sampler"],
+      "version": "1.0.0"
     }
   ]
 }
