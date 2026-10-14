@@ -205,6 +205,18 @@
       "traditions": ["General"],
       "tags": ["audio", "summa-theologica", "thomas-aquinas", "librivox", "public-domain", "books", "sampler", "theology", "scholasticism"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-spiritual-exercises-audio",
+      "type": "playlist",
+      "path": "The-Spiritual-Exercises-Audio.playlist.zip",
+      "name": "The Spiritual Exercises (Audio)",
+      "description": "Ignatius of Loyola's handbook for retreats and discernment (Mullan translation), read by Phil Chenevert for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "spiritual-exercises", "ignatius-loyola", "librivox", "public-domain", "books", "spirituality", "retreat"],
+      "version": "1.0.0"
     }
   ]
 }
