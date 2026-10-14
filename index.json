@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T00:00:00.000Z",
+  "updatedAt": "2026-10-14T00:00:00.000Z",
   "packages": [
     {
       "id": "the-pilgrims-progress-audio",
@@ -264,6 +264,18 @@
       "category": "Books",
       "traditions": ["General"],
       "tags": ["audio", "revelations-of-divine-love", "julian-of-norwich", "librivox", "public-domain", "books", "mysticism", "spirituality"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "theologica-germanica-audio",
+      "type": "playlist",
+      "path": "Theologica-Germanica-Audio.playlist.zip",
+      "name": "Theologica Germanica (Audio)",
+      "description": "An anonymous medieval German mystical treatise on dying to self and living in union with God, read by J A Carter for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "theologica-germanica", "mysticism", "librivox", "public-domain", "books", "spirituality"],
       "version": "1.0.0"
     }
   ]
