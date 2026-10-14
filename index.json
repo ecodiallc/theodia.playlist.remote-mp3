@@ -121,6 +121,18 @@
       "traditions": ["General"],
       "tags": ["audio", "city-of-god", "augustine", "librivox", "public-domain", "books", "theology", "history"],
       "version": "1.0.0"
+    },
+    {
+      "id": "the-interior-castle-audio",
+      "type": "playlist",
+      "path": "The-Interior-Castle-Audio.playlist.zip",
+      "name": "The Interior Castle (Audio)",
+      "description": "Teresa of Ávila's guide to the soul's journey inward, read by Ann Boulais for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "interior-castle", "teresa-of-avila", "librivox", "public-domain", "books", "contemplation", "spirituality"],
+      "version": "1.0.0"
     }
   ]
 }
