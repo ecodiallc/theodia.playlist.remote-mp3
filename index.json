@@ -37,6 +37,18 @@
       "traditions": ["General"],
       "tags": ["audio", "practice-of-the-presence-of-god", "brother-lawrence", "librivox", "public-domain", "books", "devotional"],
       "version": "1.0.0"
+    },
+    {
+      "id": "orthodoxy-audio",
+      "type": "playlist",
+      "path": "Orthodoxy-Audio.playlist.zip",
+      "name": "Orthodoxy (Audio)",
+      "description": "G. K. Chesterton's 1908 apologetic classic, read by Phil Chenevert for LibriVox. Public-domain remote MP3 audio.",
+      "author": "LibriVox",
+      "category": "Books",
+      "traditions": ["General"],
+      "tags": ["audio", "orthodoxy", "g-k-chesterton", "librivox", "public-domain", "books", "apologetics"],
+      "version": "1.0.0"
     }
   ]
 }
